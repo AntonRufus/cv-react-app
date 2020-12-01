@@ -1,0 +1,27 @@
+.contacts_container {
+    box-sizing: border-box;
+    margin-top: 60px;
+    margin-left: 15%;
+    max-width: 350px;
+}
+
+.contacts_container h3 {
+    margin-bottom: 16px
+}
+
+.contacts_item {
+    color: #fff;
+    font-size: 14px;
+    line-height: 24px;
+    font-weight: 700;
+}
+
+.contacts_item a {
+    color: #a6a8ad;
+    margin-left: 10px;
+    text-decoration: none;
+}
+
+.contacts_item .email {
+    text-decoration: underline;
+}

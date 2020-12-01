@@ -1,0 +1,38 @@
+.about_me_container {
+    background-color: #fff;
+    margin-left: 90px;
+    margin-top: 110px;
+    margin-right: 90px;
+}
+
+.about_me_container h1 {
+    margin-top: 35px;
+    text-shadow: 2px 2px 3px grey;
+    color: #000;
+    font-size: 45px;
+}
+
+.about_me_container h1:hover {
+    color: #333;
+    text-shadow: 2px 3px 5px grey;
+}
+
+.about_me_container p {
+    margin-top: 25px;
+    padding-bottom: 20px;
+    line-height: 25px;
+    color: #595959;
+    font-size: 14px;
+    max-width: 550px;
+    margin-left: 0;
+}
+
+.about_me_container h4 {
+    font-size: 16px;
+    color: #000;
+}
+
+.about_me_container ul,
+.about_me_container ol {
+    padding-left: 17px;
+}

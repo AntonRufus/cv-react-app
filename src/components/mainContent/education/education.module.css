@@ -1,0 +1,42 @@
+.education_container h3 {
+    color: #2b2b2b;
+    margin-top: 60px;
+    font-size: 22px;
+}
+
+.date {
+    color: #a8a8a8;
+    font-size: 12px;
+}
+
+.separator {
+    margin-left: 25px;
+}
+
+.country {
+    margin-left: 5px;
+}
+
+.education_container {
+    margin-bottom: 110px;
+}
+
+.education_container .education_university {
+    font-size: 16px;
+    color: #ff6b08;
+    margin-top: 15px;
+    font-weight: bold;
+}
+
+.education_container p {
+    font-size: 14px;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: -20px;
+    color: #000;
+}
+
+h4 {
+    font-size: 16px;
+    color: #000;
+}

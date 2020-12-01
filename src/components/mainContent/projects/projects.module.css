@@ -1,0 +1,36 @@
+.projects_container h3 {
+    color: #2b2b2b;
+    margin-top: 60px;
+    font-size: 22px;
+}
+
+.projects_container .project_item {
+    font-weight: 700;
+}
+
+.projects_container .project_item a {
+    padding-left: 7px;
+}
+
+.projects_container .project_item span {
+    font-weight: 400;
+}
+
+.projects_container a {
+    font-size: 14px;
+    text-decoration: none;
+    color: #595959;
+    font-weight: 400;
+}
+
+.projects_container ol li {
+    margin-top: 15px;
+}
+
+a:hover {
+    color: #ff6b08;
+}
+
+.dots {
+    font-size: 10px;
+}

@@ -1,0 +1,45 @@
+aside {
+    max-width: 350px;
+    min-width: 250px;
+}
+
+aside .photo {
+    max-width: 100%;
+    margin-top: -400px;
+}
+
+aside .bgcPhoto {
+    margin-top: 50px;
+    width: 100%;
+}
+
+aside h3 {
+    font-size: 22px;
+    font-weight: 700;
+    color: #fff;
+}
+
+.aside_container {
+    background-color: #1e2939;
+    height: 100%;
+}
+
+.info_container {
+    display: flex;
+    flex-direction: column;
+}
+
+.info_container ul {
+    padding-left: 17px;
+    list-style-type: none;
+}
+
+.info_container ul li::before {
+    content: "\2022";
+    color: #ff6b08;
+    display: inline-block;
+    width: 1em;
+    margin-left: -0.9em;
+    font-weight: bold;
+    font-size: 1.1rem;
+}
