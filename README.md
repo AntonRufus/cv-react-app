@@ -1,3 +1,26 @@
+# CV (React)
+
+## Simple React and CSS based project. 
+
+#### https://antonrufus.github.io/cv-react-app/
+
+#### The HTML project was taken as a basis and converted into a React APP.
+#####  https://github.com/AntonRufus/cv-html
+
+## Tech stack:
+
+  ### React,
+
+  ### CSS:
+      - CSS modules
+
+## Feel free to contact me via LinkedIn: 
+
+#### https://www.linkedin.com/in/anton-zhyvotovskyi/
+
+
+------------
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
